@@ -1,4 +1,13 @@
-### Hi there 👋
+# Halo semua
+
+Perkenalkan Nama saya
+**Fadhilah Farhan**.
+
+saya Seorang Full Stack Developer  
+saya seorang mahasiswa dari Sekolah Tinggi Teknologi Terpadu Nurul Fikri
+
+
+
 
 <!--
 **fadhilahfarhan/fadhilahfarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
